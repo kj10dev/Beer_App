@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.beeradviser.app-mergeDebugResources-9:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\kojom\\.gradle\\caches\\transforms-3\\a5bd93b3027cefeeac152e80a29b4fc3\\transformed\\appcompat-1.2.0\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}
